@@ -3,3 +3,7 @@ I am a passionate and dedicated B.Tech student in Computer Science and Engineeri
 My technical skills include Python, C, C++, C#, HTML, CSS, and SQL, as well as proficiency in game development using Unity and Blender. My recent focus on machine learning has expanded my technical repertoire, and I am eager to apply my skills to real-world challenges. In addition to my technical pursuits, I enjoy gaming and music, which keep my creativity and problem-solving skills sharp.
 
 As I look forward to my future career, I am excited about opportunities that allow me to leverage my technical expertise and passion for innovation to make a meaningful impact.
+
+
+├── images
+│   ├── dp Green.jjpg
